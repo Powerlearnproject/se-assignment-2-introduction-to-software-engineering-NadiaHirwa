@@ -605,7 +605,7 @@ User-Centric Design: Designing software with a focus on inclusivity and accessib
 Bias Testing: Regularly testing algorithms and systems for bias and discrimination.
 
 Ethical Decision-Making Frameworks:
-Framework Adoption: Using ethical decision-making frameworks to evaluate the potential impact of decisions.
+Framework Adoption:    gg Using ethical decision-making frameworks to evaluate the potential impact of decisions.
 Ethics Committees: Establishing ethics committees to review and advise on ethical issues.
 
 Accountability and Responsibility:
